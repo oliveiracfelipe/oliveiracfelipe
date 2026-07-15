@@ -3,7 +3,7 @@ Olá! 👋 Eu sou Felipe Oliveira
 </h1>
 
 <h3 align="center">
-🐍 Desenvolvedor Python em formação • 🤖 Entusiasta de Inteligência Artificial • 💻 Suporte N2
+🐍 Desenvolvedor Python • 💻 Suporte N2
 </h3>
 
 <p align="center">
@@ -53,8 +53,6 @@ me = FelipeOliveira()
 
 🗄 SQL
 
-🐧 Linux
-
 ☁ Cloud Computing
 
 ---
@@ -63,7 +61,7 @@ me = FelipeOliveira()
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,git,github,linux,docker,mysql,postgres,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,git,github,docker,mysql,vscode"/>
 
 </p>
 
@@ -129,32 +127,6 @@ me = FelipeOliveira()
 
 ---
 
-# 🚀 Projetos
-
-📌 Sistemas em Python
-
-📌 APIs REST
-
-📌 Inteligência Artificial
-
-📌 Automações
-
-📌 Bots
-
-📌 Machine Learning
-
----
-
-# 📚 Objetivos para 2026
-
-- Aprender Machine Learning
-- Criar aplicações com IA
-- Dominar FastAPI
-- Desenvolver projetos Open Source
-- Contribuir para a comunidade Python
-
----
-
 # 🌎 Contato
 
 <p align="center">
@@ -163,7 +135,7 @@ me = FelipeOliveira()
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://https://www.linkedin.com/in/felipeoliveiradev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
