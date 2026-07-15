@@ -1,55 +1,75 @@
-<h1 align="center">Olá! 👋 Eu sou Felipe Oliveira</h1>
+<h1 align="center">
+Olá! 👋 Eu sou Felipe Oliveira
+</h1>
 
 <h3 align="center">
-💻 Suporte N2 | Estudando Python e IA
+🐍 Desenvolvedor Python em formação • 🤖 Entusiasta de Inteligência Artificial • 💻 Suporte N2
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Suporte+N2;Desenvolvedor+Backend;Python."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Developer;Automações+com+Python;Sempre+aprendendo+algo+novo."/>
 </p>
 
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 Sobre mim
 
-🎯 Atualmente trabalho como **Suporte N2**
+```python
+class FelipeOliveira:
 
-📚 Estudando:
+    def __init__(self):
+        self.name = "Felipe Oliveira"
+        self.location = "Brasil 🇧🇷"
+        self.role = "Suporte N2"
+        self.learning = [
+            "Python",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Flask",
+            "FastAPI",
+            "SQL",
+            "Linux"
+        ]
 
-- Python
-- SQL
-- Cloud
-- IA
+    def objective(self):
+        return "Tornar-me Desenvolvedor Python especializado em IA"
 
-🎓 Objetivo:
-
-Conquistar uma vaga como **Desenvolvedor Backend**.
-
----
-
-# 💻 Tecnologias
-
-### Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-</p>
+me = FelipeOliveira()
+```
 
 ---
 
-# 📈 Estatísticas
+# 🚀 Atualmente estudando
+
+🐍 Python
+
+🤖 Inteligência Artificial
+
+🧠 Machine Learning
+
+⚡ FastAPI
+
+🌐 Flask
+
+🗄 SQL
+
+🐧 Linux
+
+☁ Cloud Computing
+
+---
+
+# 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,git,github,linux,docker,mysql,postgres,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -61,7 +81,7 @@ Conquistar uma vaga como **Desenvolvedor Backend**.
 
 ---
 
-# 🔥 Streak
+# 🔥 Sequência de Contribuições
 
 <p align="center">
 
@@ -71,17 +91,7 @@ Conquistar uma vaga como **Desenvolvedor Backend**.
 
 ---
 
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📊 Gráfico de Contribuições
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -91,24 +101,74 @@ Conquistar uma vaga como **Desenvolvedor Backend**.
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🏆 GitHub Trophies
 
-🌟 Controle Financeiro
+<p align="center">
 
-🌟 Sistema de Pedidos para Açaí
+<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=tokyonight&margin-w=10&column=7"/>
+
+</p>
 
 ---
 
-# 🌎 Conecte-se comigo
+# 🧠 Áreas de Interesse
 
-<p>
+🤖 Inteligência Artificial
 
-<a href="https://linkedin.com/in/[SEU_LINKEDIN](https://www.linkedin.com/in/felipeoliveiradev/)">
+🧠 Machine Learning
+
+📊 Ciência de Dados
+
+⚙ Automação de Processos
+
+🌐 APIs REST
+
+☁ Cloud
+
+🐍 Desenvolvimento Backend
+
+---
+
+# 🚀 Projetos
+
+📌 Sistemas em Python
+
+📌 APIs REST
+
+📌 Inteligência Artificial
+
+📌 Automações
+
+📌 Bots
+
+📌 Machine Learning
+
+---
+
+# 📚 Objetivos para 2026
+
+- Aprender Machine Learning
+- Criar aplicações com IA
+- Dominar FastAPI
+- Desenvolver projetos Open Source
+- Contribuir para a comunidade Python
+
+---
+
+# 🌎 Contato
+
+<p align="center">
+
+<a href="https://github.com/oliveiracfelipe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:felipecoliveir4@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -125,6 +185,16 @@ Conquistar uma vaga como **Desenvolvedor Backend**.
 
 <p align="center">
 
-⭐ Se gostou de algum projeto, deixe uma estrela!
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+"Transformando ideias em código, uma linha de Python por vez."
 
 </p>
