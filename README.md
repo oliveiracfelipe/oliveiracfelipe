@@ -10,6 +10,14 @@ Olá! 👋 Eu sou Felipe Oliveira
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Developer;Automações+com+Python;Sempre+aprendendo+algo+novo."/>
 </p>
 
+## 💻 Linguagens mais utilizadas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracfelipe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 # 👨‍💻 Sobre mim
