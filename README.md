@@ -9,14 +9,6 @@ Olá! 👋 Eu sou Felipe Oliveira
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Developer;Automações+com+Python;Sempre+aprendendo+algo+novo."/>
 </p>
-
-## 🧠 Linguagens
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracfelipe&layout=donut&theme=tokyonight&hide_border=true"
-  />
-</p>
 ---
 
 # 👨‍💻 Sobre mim
@@ -43,25 +35,6 @@ class FelipeOliveira:
 
 me = FelipeOliveira()
 ```
-
----
-
-# 🚀 Atualmente estudando
-
-🐍 Python
-
-🤖 Inteligência Artificial
-
-🧠 Machine Learning
-
-⚡ FastAPI
-
-🌐 Flask
-
-🗄 SQL
-
-☁ Cloud Computing
-
 ---
 
 # 🛠 Tecnologias
@@ -149,22 +122,6 @@ me = FelipeOliveira()
 <a href="mailto:felipecoliveir4@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=oliveiracfelipe&label=Visitantes&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
