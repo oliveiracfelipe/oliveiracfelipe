@@ -79,16 +79,6 @@ me = FelipeOliveira()
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=tokyonight&margin-w=10&column=7"/>
-
-</p>
-
----
-
 # 🧠 Áreas de Interesse
 
 🤖 Inteligência Artificial
