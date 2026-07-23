@@ -9,7 +9,6 @@ Olá! 👋 Eu sou Felipe Oliveira
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Developer;Automações+com+Python;Sempre+aprendendo+algo+novo."/>
 </p>
----
 
 # 👨‍💻 Sobre mim
 
@@ -93,22 +92,12 @@ me = FelipeOliveira()
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://https://www.linkedin.com/in/felipeoliveiradev/">
+<a href="[https://https://www.linkedin.com/in/felipeoliveiradev/](https://www.linkedin.com/in/felipeoliveiradev/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:felipecoliveir4@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-"Transformando ideias em código, uma linha de Python por vez."
 
 </p>
