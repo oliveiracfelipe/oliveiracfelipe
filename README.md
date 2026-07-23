@@ -1,103 +1,219 @@
-<h1 align="center">
-Olá! 👋 Eu sou Felipe Oliveira
-</h1>
+<div align="center">
 
-<h3 align="center">
-🐍 Desenvolvedor Python • 💻 Suporte N2
-</h3>
+# 👋 Olá, eu sou Felipe Oliveira
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Developer;Automações+com+Python;Sempre+aprendendo+algo+novo."/>
-</p>
+### 🐍 Python Developer • 🤖 AI Enthusiast • ☕ Backend Developer
 
-# 👨‍💻 Sobre mim
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Engineer;Always+Learning+Something+New." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=May%20the%20Code%20Be%20With%20You&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 🌌 Sobre mim
 
 ```python
 class FelipeOliveira:
 
     def __init__(self):
+
         self.name = "Felipe Oliveira"
-        self.location = "Brasil 🇧🇷"
-        self.role = "Suporte N2"
-        self.learning = [
+
+        self.country = "Brazil 🇧🇷"
+
+        self.role = "Support N2"
+
+        self.focus = [
             "Python",
             "Artificial Intelligence",
-            "Machine Learning",
-            "Flask",
-            "FastAPI",
-            "SQL",
-            "Linux"
+            "Backend",
+            "Automation",
+            "Machine Learning"
         ]
 
-    def objective(self):
-        return "Tornar-me Desenvolvedor Python especializado em IA"
+        self.goal = "Become an AI Engineer"
 
-me = FelipeOliveira()
+    def life(self):
+
+        while True:
+
+            learn()
+
+            build()
+
+            improve()
+
+            repeat()
 ```
----
-
-# 🛠 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,git,github,docker,mysql,vscode"/>
-
-</p>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# ⚡ Atualmente
 
-<p align="center">
+🔹 Desenvolvendo projetos em Python
 
-<img src="https://streak-stats.demolab.com?user=oliveiracfelipe&theme=tokyonight"/>
+🔹 Estudando Inteligência Artificial
 
-</p>
+🔹 Aprendendo FastAPI
 
----
+🔹 APIs REST
 
-# 📈 Activity Graph
+🔹 Banco de Dados
 
-<p align="center">
+🔹 Linux
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveiracfelipe&theme=tokyo-night"/>
-
-</p>
+🔹 Docker
 
 ---
 
-# 🧠 Áreas de Interesse
+# 🤖 Tech Stack
 
-🤖 Inteligência Artificial
+<div align="center">
 
-🧠 Machine Learning
+### Linguagens
 
-📊 Ciência de Dados
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 
-⚙ Automação de Processos
+### Backend
 
-🌐 APIs REST
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
 
-☁ Cloud
+### Ferramentas
 
-🐍 Desenvolvimento Backend
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+
+### Estudando
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</div>
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiracfelipe&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracfelipe&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=oliveiracfelipe&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveiracfelipe&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Projetos
+
+| Projeto | Tecnologias |
+|----------|-------------|
+| 💰 Sistema Financeiro | Python |
+| 🤖 IA Chatbot | Python + OpenAI |
+| 🍧 Sistema de Pedidos | Python |
+| 🌐 API REST | FastAPI |
+| 📊 Dashboard | Python |
+
+---
+
+# 🎯 Roadmap
+
+```text
+Python        ████████████ 100%
+
+Git           ██████████░░ 80%
+
+SQL           ████████░░░░ 70%
+
+FastAPI       ██████░░░░░░ 55%
+
+Docker        █████░░░░░░░ 45%
+
+Machine Learning ███░░░░░░ 30%
+
+Deep Learning ██░░░░░░░░░ 20%
+```
+
+---
+
+# ☕ Um pouco sobre mim
+
+🌌 Fã de Star Wars
+
+🤖 Apaixonado por IA
+
+🐍 Python Lover
+
+📚 Sempre estudando
+
+☕ Café + Código = ❤️
 
 ---
 
 # 🌎 Contato
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/oliveiracfelipe">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://https://www.linkedin.com/in/felipeoliveiradev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/oliveiracfelipe">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:felipecoliveir4@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=oliveiracfelipe&style=for-the-badge&color=blue)
+
+### ⭐ "May the Code be with you."
+
+</div>
