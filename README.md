@@ -92,7 +92,7 @@ me = FelipeOliveira()
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://https://www.linkedin.com/in/felipeoliveiradev/](https://www.linkedin.com/in/felipeoliveiradev/)">
+<a href="[https://https://www.linkedin.com/in/felipeoliveiradev/]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
