@@ -53,20 +53,6 @@ class FelipeOliveira:
 
 ---
 
-# 🚀 Current Mission
-
-- 🐍 Master Python
-- 🤖 Build Artificial Intelligence applications
-- 🌐 Develop REST APIs
-- ⚡ Learn FastAPI
-- ☁ Learn Cloud Computing
-- 🐳 Docker
-- 🐧 Linux
-- 📊 SQL & PostgreSQL
-- 🧠 Machine Learning
-
----
-
 # ⚔ Tech Stack
 
 <div align="center">
@@ -92,7 +78,27 @@ class FelipeOliveira:
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 </div>
+---
+<h2>Statistics</h2>
 
+<table>
+<tr>
+<td width="50%" align="center">
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=oliveiracfelipe&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
+</td>
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=oliveiracfelipe&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+</tr>
+</table>
 ---
 
 # 🔥 Contribution Streak
