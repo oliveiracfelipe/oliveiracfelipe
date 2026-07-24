@@ -69,14 +69,6 @@ class FelipeOliveira:
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 </div>
 ---
 <h2>Statistics</h2>
@@ -121,16 +113,6 @@ class FelipeOliveira:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 💡 Interests
 
 - 🤖 Artificial Intelligence
@@ -151,7 +133,7 @@ class FelipeOliveira:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/oliveiracfelipe">
+<a href="https://www.linkedin.com/in/felipeoliveiradev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -160,7 +142,5 @@ class FelipeOliveira:
 </a>
 
 </div>
-
 ### 🌌 *May the Code be with you.*
-
 </div>
