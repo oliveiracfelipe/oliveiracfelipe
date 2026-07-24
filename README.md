@@ -73,7 +73,7 @@ class FelipeOliveira:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 ### Backend
 
@@ -147,40 +147,6 @@ class FelipeOliveira:
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 💰 Financial Manager | Personal finance management application developed in Python |
-| 🤖 AI Chatbot | Artificial Intelligence assistant using LLM APIs |
-| 🌐 REST API | Backend built with FastAPI |
-| 🍧 Açaí Ordering System | Complete ordering platform |
-| 📊 Dashboard | Interactive data visualization |
-
----
-
-# 🎯 Learning Roadmap
-
-```text
-Python              ████████████████████ 100%
-
-Git                 ████████████████░░░░ 80%
-
-SQL                 ██████████████░░░░░░ 70%
-
-FastAPI             ████████████░░░░░░░░ 60%
-
-Docker              █████████░░░░░░░░░░░ 45%
-
-Linux               ███████████░░░░░░░░░ 55%
-
-Machine Learning    ██████░░░░░░░░░░░░░░ 30%
-
-Deep Learning       ███░░░░░░░░░░░░░░░░░ 15%
-```
-
----
-
 # 💡 Interests
 
 - 🤖 Artificial Intelligence
@@ -190,15 +156,6 @@ Deep Learning       ███░░░░░░░░░░░░░░░░░
 - 🐍 Python Automation
 - ☁ Cloud Computing
 - 📊 Data Analysis
-
----
-
-# 🌌 Fun Facts
-
-- ⚔ Huge Star Wars fan
-- ☕ Coffee makes debugging easier
-- 📚 Always learning something new
-- 💡 I believe consistency beats motivation
 
 ---
 
@@ -219,22 +176,6 @@ Deep Learning       ███░░░░░░░░░░░░░░░░░
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-## ⚡ Quote
-
-> **"Do. Or do not. There is no try." — Yoda**
-
----
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
-
----
-
-### ⭐ If you like my projects, don't forget to leave a Star!
 
 ### 🌌 *May the Code be with you.*
 
