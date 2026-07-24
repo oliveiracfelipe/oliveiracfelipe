@@ -51,19 +51,12 @@ class FelipeOliveira:
 ---
 
 # ⚡ Atualmente
-
 🔹 Desenvolvendo projetos em Python
-
 🔹 Estudando Inteligência Artificial
-
 🔹 Aprendendo FastAPI
-
 🔹 APIs REST
-
 🔹 Banco de Dados
-
 🔹 Linux
-
 🔹 Docker
 
 ---
@@ -74,7 +67,7 @@ class FelipeOliveira:
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 ### Backend
 
@@ -141,53 +134,6 @@ class FelipeOliveira:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# 🚀 Projetos
-
-| Projeto | Tecnologias |
-|----------|-------------|
-| 💰 Sistema Financeiro | Python |
-| 🤖 IA Chatbot | Python + OpenAI |
-| 🍧 Sistema de Pedidos | Python |
-| 🌐 API REST | FastAPI |
-| 📊 Dashboard | Python |
-
----
-
-# 🎯 Roadmap
-
-```text
-Python        ████████████ 100%
-
-Git           ██████████░░ 80%
-
-SQL           ████████░░░░ 70%
-
-FastAPI       ██████░░░░░░ 55%
-
-Docker        █████░░░░░░░ 45%
-
-Machine Learning ███░░░░░░ 30%
-
-Deep Learning ██░░░░░░░░░ 20%
-```
-
----
-
-# ☕ Um pouco sobre mim
-
-🌌 Fã de Star Wars
-
-🤖 Apaixonado por IA
-
-🐍 Python Lover
-
-📚 Sempre estudando
-
-☕ Café + Código = ❤️
-
 ---
 
 # 🌎 Contato
@@ -198,7 +144,7 @@ Deep Learning ██░░░░░░░░░ 20%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/oliveiracfelipe">
+<a href="https://linkedin.com/in/felipeoliveiradev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
