@@ -1,18 +1,16 @@
 <div align="center">
 
-# 👋 Olá, eu sou Felipe Oliveira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:2563EB&text=Felipe%20Oliveira&fontColor=FFFFFF&fontSize=50&animation=fadeIn&desc=Python%20Developer%20•%20Artificial%20Intelligence%20•%20Backend&descAlignY=70"/>
 
-### 🐍 Python Developer • 🤖 AI Enthusiast • ☕ Backend Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Python+Developer;Artificial+Intelligence+Enthusiast;Backend+Developer;Always+Learning+Something+New.;May+the+Code+be+with+you."/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Python+Developer;Artificial+Intelligence;Backend+Engineer;Always+Learning+Something+New." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=May%20the%20Code%20Be%20With%20You&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+![](https://komarev.com/ghpvc/?username=oliveiracfelipe&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 🌌 Sobre mim
+# 🌌 About Me
 
 ```python
 class FelipeOliveira:
@@ -23,25 +21,30 @@ class FelipeOliveira:
 
         self.country = "Brazil 🇧🇷"
 
-        self.role = "Support N2"
+        self.role = "Support Analyst N2"
 
-        self.focus = [
+        self.current_focus = [
             "Python",
             "Artificial Intelligence",
-            "Backend",
-            "Automation",
-            "Machine Learning"
+            "Backend Development",
+            "FastAPI",
+            "Machine Learning",
+            "Automation"
         ]
 
-        self.goal = "Become an AI Engineer"
+        self.goal = "Become an AI & Backend Engineer"
+
+        self.motto = "May the Code be with you."
 
     def life(self):
 
         while True:
 
-            learn()
+            study()
 
-            build()
+            build_projects()
+
+            solve_problems()
 
             improve()
 
@@ -50,34 +53,41 @@ class FelipeOliveira:
 
 ---
 
-# ⚡ Atualmente
-🔹 Desenvolvendo projetos em Python
-🔹 Estudando Inteligência Artificial
-🔹 Aprendendo FastAPI
-🔹 APIs REST
-🔹 Banco de Dados
-🔹 Linux
-🔹 Docker
+# 🚀 Current Mission
+
+- 🐍 Master Python
+- 🤖 Build Artificial Intelligence applications
+- 🌐 Develop REST APIs
+- ⚡ Learn FastAPI
+- ☁ Learn Cloud Computing
+- 🐳 Docker
+- 🐧 Linux
+- 📊 SQL & PostgreSQL
+- 🧠 Machine Learning
 
 ---
 
-# 🤖 Tech Stack
+# ⚔ Tech Stack
 
 <div align="center">
 
-### Linguagens
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi"/>
 
-### Ferramentas
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
 
-### Estudando
+### Currently Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
@@ -85,7 +95,7 @@ class FelipeOliveira:
 
 ---
 
-# 📈 GitHub
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -97,7 +107,7 @@ class FelipeOliveira:
 
 ---
 
-# 🔥 Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -107,11 +117,11 @@ class FelipeOliveira:
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveiracfelipe&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveiracfelipe&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -121,7 +131,7 @@ class FelipeOliveira:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=algolia&margin-w=15&margin-h=15&column=7"/>
 
 </div>
 
@@ -134,9 +144,65 @@ class FelipeOliveira:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
 ---
 
-# 🌎 Contato
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💰 Financial Manager | Personal finance management application developed in Python |
+| 🤖 AI Chatbot | Artificial Intelligence assistant using LLM APIs |
+| 🌐 REST API | Backend built with FastAPI |
+| 🍧 Açaí Ordering System | Complete ordering platform |
+| 📊 Dashboard | Interactive data visualization |
+
+---
+
+# 🎯 Learning Roadmap
+
+```text
+Python              ████████████████████ 100%
+
+Git                 ████████████████░░░░ 80%
+
+SQL                 ██████████████░░░░░░ 70%
+
+FastAPI             ████████████░░░░░░░░ 60%
+
+Docker              █████████░░░░░░░░░░░ 45%
+
+Linux               ███████████░░░░░░░░░ 55%
+
+Machine Learning    ██████░░░░░░░░░░░░░░ 30%
+
+Deep Learning       ███░░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# 💡 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ Backend Development
+- 🌐 REST APIs
+- 🐍 Python Automation
+- ☁ Cloud Computing
+- 📊 Data Analysis
+
+---
+
+# 🌌 Fun Facts
+
+- ⚔ Huge Star Wars fan
+- ☕ Coffee makes debugging easier
+- 📚 Always learning something new
+- 💡 I believe consistency beats motivation
+
+---
+
+# 🌎 Connect with Me
 
 <div align="center">
 
@@ -144,12 +210,12 @@ class FelipeOliveira:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/felipeoliveiradev">
+<a href="https://www.linkedin.com/in/oliveiracfelipe">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:felipecoliveir4@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -158,8 +224,18 @@ class FelipeOliveira:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=oliveiracfelipe&style=for-the-badge&color=blue)
+## ⚡ Quote
 
-### ⭐ "May the Code be with you."
+> **"Do. Or do not. There is no try." — Yoda**
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+---
+
+### ⭐ If you like my projects, don't forget to leave a Star!
+
+### 🌌 *May the Code be with you.*
 
 </div>
