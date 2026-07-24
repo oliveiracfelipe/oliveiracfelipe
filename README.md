@@ -95,18 +95,6 @@ class FelipeOliveira:
 
 ---
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiracfelipe&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiracfelipe&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -122,16 +110,6 @@ class FelipeOliveira:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveiracfelipe&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oliveiracfelipe&theme=algolia&margin-w=15&margin-h=15&column=7"/>
 
 </div>
 
