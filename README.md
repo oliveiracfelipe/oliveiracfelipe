@@ -10,49 +10,6 @@
 
 ---
 
-# 🌌 About Me
-
-```python
-class FelipeOliveira:
-
-    def __init__(self):
-
-        self.name = "Felipe Oliveira"
-
-        self.country = "Brazil 🇧🇷"
-
-        self.role = "Support Analyst N2"
-
-        self.current_focus = [
-            "Python",
-            "Artificial Intelligence",
-            "Backend Development",
-            "FastAPI",
-            "Machine Learning",
-            "Automation"
-        ]
-
-        self.goal = "Become an AI & Backend Engineer"
-
-        self.motto = "May the Code be with you."
-
-    def life(self):
-
-        while True:
-
-            study()
-
-            build_projects()
-
-            solve_problems()
-
-            improve()
-
-            repeat()
-```
-
----
-
 # ⚔ Tech Stack
 
 <div align="center">
