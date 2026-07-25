@@ -12,7 +12,7 @@
 
 # ⚔ Tech Stack
 
-<div align="right">
+<div align="center">
 
 ### Languages
 
