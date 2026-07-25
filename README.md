@@ -50,16 +50,6 @@
 </table>
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=oliveiracfelipe&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
@@ -99,5 +89,5 @@
 </a>
 
 </div>
-### 🌌 *May the Code be with you.*
+# 🌌 May the Code be with you.
 </div>
