@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Felipe Oliveira
 
-### Python Developer • Backend • Artificial Intelligence
+### Python Developer • Backend • Analista de Dados Junior
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Artificial+Intelligence;Backend+Developer;Always+building+new+projects."/>
 
