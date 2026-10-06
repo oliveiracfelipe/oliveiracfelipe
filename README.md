@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=Felipe%20Oliveira&fontColor=FFFFFF&fontSize=45&animation=fadeIn&desc=Python%20Developer%20•%20Dados%20Analyst%20•%20Backend&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=Felipe%20Oliveira&fontColor=FFFFFF&fontSize=45&animation=fadeIn&desc=Python%20Developer%20•%20Data%20Analyst%20•%20Backend&descAlignY=68"/>
 
 # 👋 Hello, I'm Felipe Oliveira
 
